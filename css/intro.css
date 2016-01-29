@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #777;
+    color:#FFF;
+    font-family: Helvetica, Tahoma;
+    font-weight: bold;
+}
+
+img {
+    margin-top: 12%;
+    max-width: 392px;
+    width: 90%;
+}
+
+a{
+    background-color: #CCC;
+    display: block;
+    width: 80%;
+    padding: 5px;
+    margin: 10px auto;
+    border-radius: 15px;
+    text-decoration: none;
+    color: #222;
+}
+
+a:hover{
+    background-color: #EEE;
+    text-decoration: none;
+    color: #555;
+}
+

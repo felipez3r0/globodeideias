@@ -1,0 +1,47 @@
+html{
+    height: 100%;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #777;
+    color:#FFF;
+    font-family: Helvetica, Tahoma;
+    font-weight: bold;
+    width:100%; 
+    height:100%;    
+}
+
+#topo{
+    background-color: #222;
+    padding: 5px 0;
+    text-align: center;
+}
+
+#topo a{
+    text-decoration: none;
+    color: #FFF;
+}
+
+#topo a:hover{
+    text-decoration: none;
+    color: #DDD;
+}
+
+.logo-r{
+    width: 20%;
+    max-width: 300px;
+    vertical-align: middle;
+}
+
+#mapa{
+        margin: 0;
+        padding: 0;
+	width:100%; 
+	height:100%;
+}
+
+.info_content{
+    color:#222;
+}
